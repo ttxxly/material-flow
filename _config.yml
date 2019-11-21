@@ -1,8 +1,8 @@
 # Search
-search: 
+search:
   enable: true
   service: hexo # google/hexo/algolia/azure/baidu
-  # google 
+  # google
   google_api_key:
   google_engine_id:
   # algolia
@@ -24,13 +24,13 @@ links:
 # navigation menu
 menu:
   - name: Home
-    slug: home
+    slug: 首页
     url: /
-  - name: Archives
-    slug: archives
+  - name: archives
+    slug: 归档
     url: /archives
-  - name: About
-    slug: about
+  - name: about
+    slug: 关于
     url: /about
 
 # widgets
