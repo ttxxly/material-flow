@@ -29,6 +29,18 @@ menu:
   - name: 归档
     slug: archives
     url: /archives
+  - name: 分类
+      slug: categories
+      url: /categories
+  - name: 标签
+      slug: tags
+      url: /tags
+  - name: 算法
+      slug: algorithm
+      url: https://book.algorithm.ttxxly.top/
+  - name: python
+      slug: python
+      url: https://book.python.ttxxly.top/
   - name: 关于
     slug: about
     url: /about
