@@ -23,14 +23,14 @@ links:
 
 # navigation menu
 menu:
-  - name: Home
-    slug: 首页
+  - name: 首页
+    slug: Home
     url: /
-  - name: archives
-    slug: 归档
+  - name: 归档
+    slug: archives
     url: /archives
-  - name: about
-    slug: 关于
+  - name: 关于
+    slug: about
     url: /about
 
 # widgets
